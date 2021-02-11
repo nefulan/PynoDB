@@ -7,9 +7,11 @@
 
  virtualenv -p python3 python-env
 
-win10虚拟环境生效
+
+虚拟环境生效
+win10
 .\pynodb-env\Scripts\activate
 mac
-source #todo 
+source pynodb-env/bin/activate
 
 
